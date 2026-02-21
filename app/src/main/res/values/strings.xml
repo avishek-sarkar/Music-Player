@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="banner_title">Music Player</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button_text">Pause</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="next_button_text">Next</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="now_playing_format">Now Playing: %1$s</string>
+    <string name="unknown_track">Unknown Track</string>
+    <string name="no_music_found">No music files found!</string>
+</resources>

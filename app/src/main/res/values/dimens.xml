@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic Spacing -->
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+
+    <!-- Banner -->
+    <dimen name="banner_padding">12dp</dimen>
+    <dimen name="banner_text_size">28sp</dimen>
+
+    <!-- Song Title -->
+    <dimen name="song_title_text_size">22sp</dimen>
+
+</resources>
